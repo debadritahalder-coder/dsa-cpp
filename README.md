@@ -1,6 +1,6 @@
-# DSA in C++
+# DSA in JAVA
 
-This repository contains my Data Structures and Algorithms practice in C++.
+This repository contains my Data Structures and Algorithms practice in JAVA.
 
 I am solving problems topic-wise and maintaining notes for patterns, mistakes, and revision.
 
@@ -13,7 +13,7 @@ I am solving problems topic-wise and maintaining notes for patterns, mistakes, a
 
 ## Topics
 
-1. C++ Basics
+1. JAVA Basics
 2. Arrays
 3. Strings
 4. Hashing
@@ -36,9 +36,9 @@ I am solving problems topic-wise and maintaining notes for patterns, mistakes, a
 
 | Topic | Status |
 |---|---|
-| C++ Basics | In Progress |
-| Arrays | Not Started |
-| Strings | Not Started |
+| JAVA Basics | Done |
+| Arrays | In Progress |
+| Strings | In Progress |
 | Hashing | Not Started |
 
 ## Daily Rule
